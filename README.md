@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lev Samsonov
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m C# developer
 - 📫 How to reach me: samsonov.lev@yandex.ru
 
 <!---
